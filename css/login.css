@@ -1,0 +1,80 @@
+.body{
+    display: block;
+    color: red;
+}
+.wrapper {}
+
+.top-bar{
+    background-color: #000000;
+}
+.info-inline {
+    list-style: none;
+    padding-top: 3px;
+    
+}
+.info-inline li{
+    display: inline;
+    margin-right: 10px;
+    color: white;
+}
+.social-icons-small {
+    list-style: none;
+
+    
+}
+.social-icons-small li{
+    display: inline-block;
+    float: right;
+    padding-right: 5px;
+}
+
+
+
+/*buttons-holder-head*/
+.header_row{
+
+    font-size: 10px;
+    text-decoration: none;
+}
+.dropdown-toggle,.link-list a{
+    color: #747474;
+    text-transform: uppercase;
+}
+
+.logo a{
+    font-size: 25px;
+    color: #747474;
+
+}
+
+.link-list ul {
+    list-style-type: none;
+}
+.dropdown-toggle:hover,.logo a:hover,.link-list a:hover{
+    text-decoration: none;
+}
+.link-list.inline {
+    float: right;
+    list-style-type: none;
+}
+
+.link-list.inline li{
+    display: inline;
+    margin-right: 8px;
+}
+
+
+
+.footer_social{
+    list-style-type: none;
+    text-align: center;
+}
+.footer_social li{
+    display: inline;
+    padding: 5px;
+    
+
+}
+.footer_social li a{
+    text-decoration: none;
+}
